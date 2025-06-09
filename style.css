@@ -17,7 +17,7 @@ body{
     padding: 0.5rem 1rem;
     font-size: 1rem;
     text-decoration: none;
-    border-radius:1px;
+    border-radius:2px;
 }
 
 .download-btn:hover {
